@@ -1,0 +1,6 @@
+com\mycompany\cadastropoo\CadastroPOO.class
+model\Pessoa.class
+model\PessoaFisica.class
+model\PessoaJuridica.class
+model\PessoaFisicaRepo.class
+model\PessoaJuridicaRepo.class
